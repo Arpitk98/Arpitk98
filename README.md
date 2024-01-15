@@ -1,6 +1,9 @@
 - 👋 Hi, I’m Arpit kumar
 - 👀 I’m interested in programing .
-- 🌱 I’m currently learning Machine Learning   
+- 🌱 I’m currently learning Machine Learning
+- ✨ Skills : C , C++ , PYTHON , SQL , JAVASCRIPT
+- ✨ My GPA Up to 4th SEM : 8.21
+
 
 
 <!---
