@@ -1,9 +1,6 @@
 # Welcome to My GitHub Profile!
 
 - 👋 Hi, I’m Arpit Kumar
-- 👀 I’m interested in programming.
-- 🌱 I’m currently learning Machine Learning
-- ✨ My GPA Up to 6th SEM: 8.27
 
 ## Skills
 
